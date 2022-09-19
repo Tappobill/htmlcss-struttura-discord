@@ -58,3 +58,32 @@
     padding: 20px;
   }
 
+  .cont3{
+    height: 300px;    
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .bcolor1{
+    background-color: lightpink;
+  }
+
+  .bcolor2{
+    background-color: gray;
+  }
+
+  .bcolor3{    
+    background-color: black;
+    flex-basis: 40%;
+  }
+
+  .bcolor4{
+    background-color: darkgreen;
+    flex-basis: 40%;
+  }
+
+  .ord1{
+    order: -1;
+  }
