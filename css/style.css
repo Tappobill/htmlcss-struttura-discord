@@ -38,6 +38,7 @@
     background-color: blueviolet;
     width: 60%;
     margin: auto;
+    padding: 20px;
   }
 
   .title{
@@ -64,6 +65,7 @@
     margin: auto;
     display: flex;
     justify-content: space-between;
+    padding: 20px;
   }
 
   .bcolor1{
@@ -87,3 +89,28 @@
   .ord1{
     order: -1;
   }
+
+  .cont4{
+    height: 400px;    
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+  }
+
+ .bcolor5{
+    background-color: bisque;
+    flex-basis: 20%;
+ }
+
+ .bcolor6{
+    background-color: darkorange;
+    flex-basis: 60%;
+ }
+
+ .bcolor7{
+    background-color: dodgerblue;
+    flex-basis: 20%;
+ }
