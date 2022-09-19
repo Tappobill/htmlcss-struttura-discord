@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    list-style-type: none;
   }
 
   .container{
@@ -112,5 +113,67 @@
 
  .bcolor7{
     background-color: dodgerblue;
+    flex-basis: 20%;
+ }
+
+ .bcolor8{
+    background-color: cornflowerblue;
+    border-bottom: 2px solid red;
+ }
+
+ .bcolor9{
+    background-color: beige;
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;    
+ }
+
+ .col1{
+    flex-basis: 25%;
+    background-color: blue;
+ }
+
+ .col2{
+    flex-basis: 70%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .bcolor10{
+    background-color: green;
+    flex-basis: 17.5%;
+ }
+
+ .bcolor11{
+    background-color: aquamarine;
+    flex-basis: 17.5%;
+ }
+
+ .bcolor12{
+    background-color: black;
+    flex-basis: 17.5%;
+ }
+
+ .bcolor13{
+    background-color: yellow;
+    flex-basis: 17.5%;
+ }
+
+ .bcolor14{
+    height: 200px;
+    width: 80%;
+    margin: auto;
+        display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 20px;
+ }
+
+ .bcolor15{    
+    background-color: black;
     flex-basis: 20%;
  }
