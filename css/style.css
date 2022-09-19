@@ -25,9 +25,7 @@
 
   .boxb{
     background-color: blue;    
-    flex-basis: 40%; 
-    /* margin-right: 40px;
-    margin-left: 40px;   */
+    flex-basis: 40%;   
   }
 
   .boxn{
@@ -41,3 +39,22 @@
     width: 60%;
     margin: auto;
   }
+
+  .title{
+    text-align: center;
+    background-color: aqua;
+    padding: 30px;
+  }
+
+  .text{
+    text-align: center;
+    background-color: darkgray;
+    padding: 20px;
+  }
+
+  .but{
+    text-align: center;
+    background-color: darkolivegreen;
+    padding: 20px;
+  }
+
