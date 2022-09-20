@@ -117,8 +117,7 @@
  }
 
  .bcolor8{
-    background-color: cornflowerblue;
-    border-bottom: 2px solid red;
+    background-color: cornflowerblue;    
  }
 
  .bcolor9{
@@ -128,6 +127,7 @@
     margin: auto;
     display: flex;
     justify-content: space-between;
+    border-bottom: 2px solid red;
     padding: 20px;    
  }
 
